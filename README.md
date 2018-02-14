@@ -1,9 +1,6 @@
 # pwn-cheatsheet
 CTF pwnable challenge cheatsheet
 
-# Status
-Currently not finished!
-
 # Cheatsheet
 
 | Vuln Type | Protections | Limits or Specials | Method Links |
@@ -48,3 +45,8 @@ Find gadgets to setup ROP chain to write GOT address(so we can get libc address)
 
 ## <a name="bruteforce-canary"> Bruteforce-Canary
 Since the canary in threads is the same as main thread so we can bruteforce the canary in sub-threads.
+
+# Contribution
+You are welcomed to make your contribution, just use oridinary issue and pull-request methods. Try not to change the framework directly in your PR, send an issue first if you have some thoughts about that.
+
+Currently this project is still in progress, we need you to help us. :)
