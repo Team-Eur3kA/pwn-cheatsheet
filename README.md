@@ -1,6 +1,9 @@
 # pwn-cheatsheet
 CTF pwnable challenge cheatsheet
 
+# Status
+Currently not finished!
+
 # Cheatsheet
 
 | Vuln Type | Protections | Limits or Specials | Method Links |
